@@ -1,0 +1,18 @@
+# Ignore saved models and weights
+*.h5
+*.keras
+*.ckpt
+*.pb
+
+# Ignore Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+
+# IDE settings
+.idea/
